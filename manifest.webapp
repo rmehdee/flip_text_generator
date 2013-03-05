@@ -1,0 +1,16 @@
+{
+  "version": "1.0",
+  "name": "Flip Text Generator",
+  "description": "Generate your text Upside Down",
+  "launch_path": "/index.html",
+  "icons": {
+    "16": "/img/icon16.png",
+    "48": "/img/icon48.png",
+    "128": "/img/icon128.png"
+  },
+  "developer": {
+    "name": "Robin Mehdee",
+    "url": "http://www.mythrobin.com/"
+  },
+  "default_locale": "en"
+}
